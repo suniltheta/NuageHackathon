@@ -6,6 +6,10 @@ Simple Client Server
 
 Code just contains simple java file. which will make http requests to servers.
 
+
+
 ## Server side
 
 All server related file can be found under Server Codes folder. pom.xml contains maven dependancies. These servers respond to simple http requests with x value.
+
+Server side was developed using Spring sts, but have little trouble configuring them to run on tomcat
